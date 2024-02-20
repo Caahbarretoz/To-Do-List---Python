@@ -1,9 +1,10 @@
 To run this project you need to install the following packages on your machine or virtual environment:
 
-tkinter
+- tkinter
+- customtkinter
+- pillow
+- os
 
-customtkinter
-
-pillow 
-
-os
+<div align="center">
+    <img src="./assets/todo.png">
+</div>

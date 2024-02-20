@@ -6,5 +6,5 @@ To run this project you need to install the following packages on your machine o
 - os
 
 <div align="center">
-    <img src="./assets/todo.png">
+    <img src="./assets/todo.png" width="350">
 </div>
